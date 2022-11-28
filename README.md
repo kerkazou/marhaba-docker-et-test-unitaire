@@ -121,4 +121,4 @@
 **Étape 3 :** Enfin, exécutez le test.
 
     npm test
-    
+
